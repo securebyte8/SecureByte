@@ -1,5 +1,5 @@
 Steps to execute the Project
-1.Open the SecureByte 1.0 folder
+1.Download and extract the "SecureByte 1.0 zip" file
 2.Open the main folder
 3.Double click the “SecureByte1.0.exe” application
 4.Choose any one of the tools from the 2 modules
